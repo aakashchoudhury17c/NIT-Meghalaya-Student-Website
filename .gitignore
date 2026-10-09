@@ -15,3 +15,6 @@ Thumbs.db
 
 # Files not needed in Git
 index1.html
+index2.html
+style2.css
+script2.js
